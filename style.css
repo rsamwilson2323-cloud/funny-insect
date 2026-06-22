@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	font-size:11pt;
+	font-family:Times New Roman;
+	letter-spacing:2px;
+	color:#303030;
+}
+#svg {
+	background-color: #777777;
+  position:absolute;
+  width:800px;
+  height:440px;
+  top:10px;
+  left:50%;
+  margin-left:-400px;
+}
